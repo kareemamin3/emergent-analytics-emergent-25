@@ -1,0 +1,1 @@
+"# Please add conda channels here\nchannels:\n- defaults\n\n# Please add conda packages here\ndependencies:\n- pip\n- ipywidgets\n\n# Please add pip packages here\n# To add pip packages, please comment out the next line\n- pip:\n  - geopandas\n  - pyvis"
